@@ -2,13 +2,15 @@
 
 Welcome to my cybersecurity portfolio.
 
-I am a cybersecurity professional pursuing a Master of Science in Cybersecurity Technology with a specialization in Cloud Computing. This repository showcases hands-on cybersecurity projects demonstrating practical skills in Security Operations Center (SOC) analysis, cloud security, vulnerability management, incident response, and network security.
+I am pursuing a Master of Science in Cybersecurity Technology with a specialization in Cloud Computing. This repository showcases cybersecurity projects demonstrating skills in SOC analysis, cloud security, vulnerability management, threat modeling, incident response, and secure software development.
 
-## Technical Skills
+---
+
+# Technical Skills
 
 - AWS Cloud Security
 - Microsoft Azure
-- Splunk SIEM
+- Splunk
 - Wireshark
 - Nessus
 - Nmap
@@ -16,28 +18,42 @@ I am a cybersecurity professional pursuing a Master of Science in Cybersecurity 
 - Windows
 - Python
 - PowerShell
-- MITRE ATT&CK Framework
-- Incident Response
-- Threat Hunting
+- MITRE ATT&CK
+- NIST Cybersecurity Framework
 - Vulnerability Management
+- Threat Hunting
+- Incident Response
 
-## Portfolio Projects
+---
 
-This portfolio will include the following projects:
+# Featured Projects
 
-- Network Scanning with Nmap
-- Vulnerability Assessment with Nessus
-- SOC Investigation
-- Splunk Log Analysis
-- Wireshark Packet Analysis
-- AWS Cloud Security Lab
-- Incident Response Report
-- MITRE ATT&CK Mapping
-- Python Security Automation
-- Security Assessment Reports
+## Security Assessment Report
+Risk assessment and security control evaluation.
 
-## Goal
+## Technical Control Implementation
+Design and implementation of security controls.
 
-My goal is to continuously build practical cybersecurity experience and demonstrate the technical skills required for SOC Analyst, Cloud Security, and Cybersecurity Analyst roles.
+## Security Event and Incident Analysis
+Investigation of security events and indicators of compromise.
 
-Thank you for visiting my portfolio!
+## Security Detective Monitoring
+Security monitoring and log analysis.
+
+## Threat Modeling
+Threat identification using STRIDE and cloud security concepts.
+
+## Vulnerability Tracking
+Prioritization and remediation planning.
+
+## Secure SDLC Requirements Analysis
+Security throughout the software development lifecycle.
+
+## Vulnerability Assessment Debrief
+Risk prioritization and executive reporting.
+
+---
+
+# Career Goal
+
+Seeking opportunities as a SOC Analyst, Cloud Security Analyst, or Cybersecurity Analyst where I can apply defensive security, cloud security, and incident response skills.
